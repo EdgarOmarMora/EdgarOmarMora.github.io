@@ -1,10 +1,22 @@
 [
     {
         "nameItem":"Bulto50kg.jpg",
-        "priceItem":"$ 1,254"
+        "priceItem":"$ 1,254",
+        "T1":"Centro",
+        "T2":"Centro",
+        "T3":"Centro",
+        "T4":"Sur",
+        "T5":"Norte",
+        "T6":"Norte"
     },
     {
         "nameItem":"Fardo10kg.jpg",
-        "priceItem":"$ 278"
+        "priceItem":"$ 278",
+        "T1":"Centro",
+        "T2":"Centro",
+        "T3":"Centro",
+        "T4":"Sur",
+        "T5":"Norte",
+        "T6":"Norte"
     }
 ]
