@@ -1,51 +1,51 @@
 [
     {
         "namePrice":"Tepic Detalle",
-	      "Price":"$ 1,184",
+	"Price":"$ 1,184"
     },
      {
         "namePrice":"Tepic Mayoreo",
-	      "Price":"$ 1,174",
+	"Price":"$ 1,174"
     },
      {
         "namePrice":"Tepic Preferente",
-	      "Price":"$ 1,164",
+	 "Price":"$ 1,164"
     },
      {
         "namePrice":"Tepic Especial",
-	      "Price":"$ 1,159",
+	"Price":"$ 1,159"
     },
      {
         "namePrice":"Nayarit Sur Detalle",
-	      "Price":"$ 1,208",
+	"Price":"$ 1,208"
     },
      {
         "namePrice":"Nayarit Sur Mayoreo",
-	      "Price":"$ 1,198",
+	"Price":"$ 1,198"
     },
      {
         "namePrice":"Nayarit Sur Preferente",
-	      "Price":"$ 1,183",
+	"Price":"$ 1,183"
     },
      {
         "namePrice":"Nayarit Norte Detalle",
-	      "Price":"$ 1,223",
+	"Price":"$ 1,223"
     },
      {
         "namePrice":"Nayarit Norte Mayoreo",
-	      "Price":"$ 1,213",
+	"Price":"$ 1,213"
     },
      {
         "namePrice":"Nayarit Norte Preferente",
-	      "Price":"$ 1,203",
+	"Price":"$ 1,203"
     },
      {
         "namePrice":"Puerto Vallarta Detalle",
-	      "Price":"$ 1,251",
+	"Price":"$ 1,251"
     },
      {
         "namePrice":"Puerto Vallarta Preferente",
-	      "Price":"$ 1,231",
+	"Price":"$ 1,231"
     },
      {
         "namePrice":"Aguascalientes Detalle",
@@ -53,22 +53,22 @@
     },
      {
         "namePrice":"Aguascalientes Mayoreo",
-	      "Price":"$ 1,170",
+	"Price":"$ 1,170"
     },
      {
         "namePrice":"Aguascalientes A-2 Detalle",
-	      "Price":"$ 1,195",
+	"Price":"$ 1,195"
     },
      {
         "namePrice":"Aguascalientes A-2 Mayoreo",
-	      "Price":"$ 1,181",
+	"Price":"$ 1,181"
     },
      {
         "namePrice":"San Luis Potosí Detalle",
-	      "Price":"$ 1,212",
+	"Price":"$ 1,212"
     },
      {
         "namePrice":"San Luis Potosí Mayoreo",
-	      "Price":"$ 1,182",
+	"Price":"$ 1,182"
     }
 ]
